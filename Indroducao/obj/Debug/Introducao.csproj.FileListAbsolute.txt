@@ -1,0 +1,7 @@
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Indroducao\bin\Debug\Indroducao.exe.config
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Indroducao\bin\Debug\Indroducao.exe
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Indroducao\bin\Debug\Indroducao.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Indroducao\obj\Debug\Introducao.csproj.AssemblyReference.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Indroducao\obj\Debug\Introducao.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Indroducao\obj\Debug\Indroducao.exe
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Indroducao\obj\Debug\Indroducao.pdb
