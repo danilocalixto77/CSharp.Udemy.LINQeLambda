@@ -12,5 +12,7 @@
 
 ### 3. Explorando Cláusulas Select e Where do Linq.
 
-    Em andamento...
+    Utilizando cláusala **select** no LINQ.
+
+
 
