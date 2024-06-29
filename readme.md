@@ -10,7 +10,7 @@
 
 ### 2.Grupo de Estudo
 
-### 3.
+### 3. Explorando Cláusulas Select e Where do Linq.
 
-    Próxima aula...
+    Em andamento...
 
