@@ -14,5 +14,6 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
     Utilizando cláusala **select** no LINQ. O select vem ao final da query, invertendo portando da sintaxe padrão do SQL, entretanto, notamos que as demais claúsulas seguem o mesmo padrão sequencial.
 
+### 4. Manipulando Objetos Complexos
 
 
