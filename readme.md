@@ -1,6 +1,6 @@
 
 # Dominando LINQ e Lambda Expressions com C#
-**Professor: Paulo Rogério Martins Marques - Udemy**
+Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ## Seção 1: Introdução
 
