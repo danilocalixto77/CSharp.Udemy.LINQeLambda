@@ -8,3 +8,5 @@ D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\L
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\obj\Debug\Loja.csproj.Up2Date
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\obj\Debug\Loja.exe
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\obj\Debug\Loja.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Newtonsoft.Json.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Newtonsoft.Json.xml
