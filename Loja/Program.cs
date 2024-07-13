@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -38,14 +39,39 @@ namespace Loja {
 
             //Usando JSon 
             var produtos = new Produto().Listar();
-            produtos = produtos.Where(p => p.Nome.Contains("B")).ToList();
+
+            //Usando Contains
+            //produtos = produtos.Where(p => p.Nome.Contains("M")).ToList();
+
+            //Usando StartsWith e EndsWith
+            produtos = produtos.Where(p => p.Nome.StartsWith("A") || p.Nome.EndsWith("o")).ToList();
+
+                        
             produtos.ForEach(item => Console.WriteLine(JsonConvert.SerializeObject(item)));
+
+
+            //Usando Select
+            var nomes = produtos
+                .Where(p => p.Nome.StartsWith("A") || p.Nome.EndsWith("o"))
+                .Select(p => new ProdutoSelecionado { Name = p.Nome , Value = p.Valor})
+                .ToList();
+
+
+            nomes.ForEach(item => {
+                Console.WriteLine(JsonConvert.SerializeObject(item));
+            });
+
             Console.ReadKey();
-                
-
-
-
 
         }
+
+        public class ProdutoSelecionado { 
+            public string Name {  get; set; }   
+
+            public decimal Value {  get; set; } 
+        }
+
+
+
     }
 }
