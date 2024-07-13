@@ -51,9 +51,20 @@ namespace Loja {
 
 
             //Usando Select
+            //var nomes = produtos
+            //    .Where(p => p.Nome.StartsWith("A") || p.Nome.EndsWith("o"))
+            //    //.Select(p => new ProdutoSelecionado { Name = p.Nome.Substring(1,2).Insert(2,"Frutas"), Value = p.Valor})
+            //    //.Select(p => new ProdutoSelecionado { Name = p.Nome.Remove(2,2), Value = p.Valor })
+            //    .Select(p => new ProdutoSelecionado { Name = p.Nome.Replace("a", "Z"), Value = p.Valor })
+            //    .ToList();
+
+
+            //Usando Datas
             var nomes = produtos
-                .Where(p => p.Nome.StartsWith("A") || p.Nome.EndsWith("o"))
-                .Select(p => new ProdutoSelecionado { Name = p.Nome , Value = p.Valor})
+                .Where(p=>p.DateVencimento.Value.Year ==  2018 )
+                //.Select(p => new ProdutoSelecionado { Name = p.Nome.Substring(1,2).Insert(2,"Frutas"), Value = p.Valor})
+                //.Select(p => new ProdutoSelecionado { Name = p.Nome.Remove(2,2), Value = p.Valor })
+                .Select(p => new ProdutoSelecionado { Name = p.Nome.Replace("a", "Z"), Value = p.Valor , DiaDeVencimento =  p.DateVencimento.Value.Day})
                 .ToList();
 
 
@@ -69,6 +80,9 @@ namespace Loja {
             public string Name {  get; set; }   
 
             public decimal Value {  get; set; } 
+
+            public int DiaDeVencimento { get; set; }    
+
         }
 
 
