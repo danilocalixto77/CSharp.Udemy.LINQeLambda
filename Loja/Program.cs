@@ -44,10 +44,10 @@ namespace Loja {
             //produtos = produtos.Where(p => p.Nome.Contains("M")).ToList();
 
             //Usando StartsWith e EndsWith
-            produtos = produtos.Where(p => p.Nome.StartsWith("A") || p.Nome.EndsWith("o")).ToList();
+            //produtos = produtos.Where(p => p.Nome.StartsWith("A") || p.Nome.EndsWith("o")).ToList();
 
-                        
-            produtos.ForEach(item => Console.WriteLine(JsonConvert.SerializeObject(item)));
+
+            //produtos.ForEach(item => Console.WriteLine(JsonConvert.SerializeObject(item)));
 
 
             //Usando Select
@@ -60,17 +60,47 @@ namespace Loja {
 
 
             //Usando Datas
-            var nomes = produtos
-                .Where(p=>p.DateVencimento.Value.Year ==  2018 )
-                //.Select(p => new ProdutoSelecionado { Name = p.Nome.Substring(1,2).Insert(2,"Frutas"), Value = p.Valor})
-                //.Select(p => new ProdutoSelecionado { Name = p.Nome.Remove(2,2), Value = p.Valor })
-                .Select(p => new ProdutoSelecionado { Name = p.Nome.Replace("a", "Z"), Value = p.Valor , DiaDeVencimento =  p.DateVencimento.Value.Day})
-                .ToList();
+            //var nomes = produtos
+            //    .Where(p=>p.DateVencimento.Value.Year ==  2018 )
+            //    //.Select(p => new ProdutoSelecionado { Name = p.Nome.Substring(1,2).Insert(2,"Frutas"), Value = p.Valor})
+            //    //.Select(p => new ProdutoSelecionado { Name = p.Nome.Remove(2,2), Value = p.Valor })
+            //    .Select(p => new ProdutoSelecionado { Name = p.Nome.Replace("a", "Z"), Value = p.Valor , DiaDeVencimento =  p.DateVencimento.Value.Day})
+            //    .ToList();
 
 
-            nomes.ForEach(item => {
-                Console.WriteLine(JsonConvert.SerializeObject(item));
-            });
+            //produtos.ForEach(item => {
+            //    Console.WriteLine(JsonConvert.SerializeObject(item));
+            //});
+
+
+
+            //##############
+            //AULA 6 
+            //##############
+
+
+            //List<Produto> produtos = new List<Produto>();
+
+            //Caso não encontre para este caso de um objeto complexo retorna null
+            var produto2 = produtos.FirstOrDefault();
+
+
+            //Caso não exista retorna uma exceção
+            var produto1 = produtos.First();
+
+
+
+            var produto3 = produtos.LastOrDefault();
+
+
+            //Caso não exista retorna uma exceção
+            var produto4 = produtos.Last();
+
+
+
+            
+
+
 
             Console.ReadKey();
 
