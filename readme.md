@@ -24,7 +24,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ### 6. Manipulando e obtendo objetos da coleção com outros comandos	
 
-    Reiniciar aula , ajustar em blocos separados dentro do projeto cada aula.
+    
 
 
 
