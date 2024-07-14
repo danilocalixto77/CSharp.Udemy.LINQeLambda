@@ -24,6 +24,15 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ### 6. Manipulando e obtendo objetos da coleção com outros comandos	
 
+    First
+    FirstOrDefault
+    Last
+    LastOrDefault
+    Any()
+
+
+    7:56m de vídeo aula
+
     
 
 

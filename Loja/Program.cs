@@ -38,7 +38,7 @@ namespace Loja {
 
 
             //Usando JSon 
-            var produtos = new Produto().Listar();
+            //var produtos = new Produto().Listar();
 
             //Usando Contains
             //produtos = produtos.Where(p => p.Nome.Contains("M")).ToList();
@@ -78,29 +78,33 @@ namespace Loja {
             //AULA 6 
             //##############
 
+            //Array com itens
+            //var produtos = new Produto().Listar();
 
-            //List<Produto> produtos = new List<Produto>();
+            //Array vazia
+            List<Produto> produtos = new List<Produto>();
 
-            //Caso não encontre para este caso de um objeto complexo retorna null
+            if (produtos.Any()) {
+                Console.WriteLine("Tem item.");
+            } else {
+                Console.WriteLine("Não tem item.");
+            }
+
+
+            //var produto1 = produtos.First();
+            //var produto2 = produtos.FirstOrDefault(); 
+
             var produto2 = produtos.FirstOrDefault();
+            //var produto1 = produtos.First();
 
-
-            //Caso não exista retorna uma exceção
-            var produto1 = produtos.First();
-
-
-
+            //Last
             var produto3 = produtos.LastOrDefault();
+            //var produto1 = produtos.Last();
 
 
-            //Caso não exista retorna uma exceção
-            var produto4 = produtos.Last();
-
-
-
-            
-
-
+            //produtos.ForEach(item => {
+            //    Console.WriteLine(JsonConvert.SerializeObject(item));
+            //});
 
             Console.ReadKey();
 
