@@ -29,11 +29,8 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
     Last
     LastOrDefault
     Any()
-
-
-    7:56m de vídeo aula
-
-    
-
-
-
+    AddRange()
+    Intersect()
+    Except()
+    Range()
+    Repeat()

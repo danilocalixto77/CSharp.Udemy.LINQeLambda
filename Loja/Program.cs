@@ -79,32 +79,68 @@ namespace Loja {
             //##############
 
             //Array com itens
-            //var produtos = new Produto().Listar();
+            var produtos = new Produto().Listar();
 
             //Array vazia
-            List<Produto> produtos = new List<Produto>();
+            //List<Produto> produtos = new List<Produto>();
 
-            if (produtos.Any()) {
-                Console.WriteLine("Tem item.");
-            } else {
-                Console.WriteLine("Não tem item.");
-            }
-
-
-            //var produto1 = produtos.First();
-            //var produto2 = produtos.FirstOrDefault(); 
-
-            var produto2 = produtos.FirstOrDefault();
-            //var produto1 = produtos.First();
-
-            //Last
-            var produto3 = produtos.LastOrDefault();
-            //var produto1 = produtos.Last();
+            //if (produtos.Any()) {
+            //    Console.WriteLine("Tem item.");
+            //} else {
+            //    Console.WriteLine("Não tem item.");
+            //}
 
 
-            //produtos.ForEach(item => {
-            //    Console.WriteLine(JsonConvert.SerializeObject(item));
-            //});
+            //if (produtos.Any(p=> p.Quantidade > 10)) {
+            //    Console.WriteLine("Exitem produtos com quantidade maior que 10.");
+            //}
+
+
+            ////Adicionando uma lista dentro de outra lista
+            //var produtos1 = new Produto().Listar();
+            //var produtos2 = new List<Produto>();
+            //produtos2.Add(new Produto() { Nome = "Galaxy", Valor = 2500 });
+            //produtos2.Add(new Produto() { Nome = "iPhone", Valor = 7900 });
+            //produtos1.AddRange(produtos2);
+            //produtos1.ForEach(x => Console.WriteLine(x.Nome));
+
+
+            //int[] numerosPares = {2,4,6,8,10 };
+            //int[] numerosImpares = { 1,3,5,7,9};
+            //int[] numerosMisturados = { 1, 2, 3, 4 };
+            //var temNumerosPares = numerosMisturados.Intersect(numerosPares);
+            //foreach( var nP in temNumerosPares) {
+            //    Console.WriteLine("{0}", nP );
+            //}
+            //Console.WriteLine("-----------------------");
+            //var numerosQueNaoSeRepetem = numerosMisturados.Except(numerosPares);
+            //foreach(var nQNSR in numerosQueNaoSeRepetem) {
+            //    Console.WriteLine("{0} ", nQNSR);
+            //}
+
+
+            ////Range - faixa 
+            //var sequencia = Enumerable.Range(10, 5);
+            //foreach(var seq in sequencia) {
+            //    Console.WriteLine($"{seq}");
+            //}
+            ////Repeat - Repetir
+            //var repetir = Enumerable.Repeat("Danilo", 5);
+            //foreach (var rep in repetir) {
+            //    Console.WriteLine($"{rep}");
+            //}
+
+
+            ////var produto1 = produtos.First();
+            ////var produto2 = produtos.FirstOrDefault(); 
+            //var produto2 = produtos.FirstOrDefault();
+            ////var produto1 = produtos.First();
+            ////Last
+            //var produto3 = produtos.LastOrDefault();
+            ////var produto1 = produtos.Last();
+            ////produtos.ForEach(item => {
+            ////    Console.WriteLine(JsonConvert.SerializeObject(item));
+            ////});
 
             Console.ReadKey();
 
