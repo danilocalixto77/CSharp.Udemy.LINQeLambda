@@ -142,6 +142,12 @@ namespace Loja {
             ////    Console.WriteLine(JsonConvert.SerializeObject(item));
             ////});
 
+
+            //##############
+            //AULA 7
+            //##############
+
+
             Console.ReadKey();
 
         }

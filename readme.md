@@ -34,3 +34,6 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
     Except()
     Range()
     Repeat()
+
+### 7. Agrupamento e Agregações
+
