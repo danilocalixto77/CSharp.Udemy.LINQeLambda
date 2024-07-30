@@ -79,7 +79,7 @@ namespace Loja {
             //##############
 
             //Array com itens
-            var produtos = new Produto().Listar();
+            //var produtos = new Produto().Listar();
 
             //Array vazia
             //List<Produto> produtos = new List<Produto>();
@@ -146,6 +146,17 @@ namespace Loja {
             //##############
             //AULA 7
             //##############
+
+            var produtos = new Produto().Listar();
+
+            //Valor do produto mais caro
+            var valorProdutoMaisCaro = produtos.Max(p => p.Valor);
+            
+            //Media qtd em estoque
+            var maiorQtdEmEstoque = produtos.Average(x=> x.Valor);
+
+
+
 
 
             Console.ReadKey();
