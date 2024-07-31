@@ -147,16 +147,39 @@ namespace Loja {
             //AULA 7
             //##############
 
-            var produtos = new Produto().Listar();
+            //var produtos = new Produto().ListarFrutasCompleta();
+            ////Valor do produto mais caro
+            //var valorProdutoMaisCaro = produtos.Max(p => p.Valor);
+            ////Valor do produto mais barato
+            //var valorProdutoMaisBarato = produtos.Min(p => p.Valor);
+            ////Media qtd em estoque
+            //var maiorQtdEmEstoque = produtos.Average(x=> x.Valor);
+            ////Soma 
+            //var soma = produtos.Sum(x => x.Valor);
 
-            //Valor do produto mais caro
-            var valorProdutoMaisCaro = produtos.Max(p => p.Valor);
-            
-            //Media qtd em estoque
-            var maiorQtdEmEstoque = produtos.Average(x=> x.Valor);
 
+            var produtosFrutas = new Produto().ListarFrutas();
+            var produtosEletronicos = new Produto().ListarEletronicos();
 
+            var produtos = new List<Produto>();
+            produtos.AddRange(produtosFrutas);
+            produtos.AddRange(produtosEletronicos);
 
+            Console.WriteLine(produtos.Count());
+
+            produtos.ForEach(x => {
+                Console.WriteLine(JsonConvert.SerializeObject(x));
+            });
+
+            Console.WriteLine("----------------------------");
+
+            var resultado = from p in produtos
+                            group p by p.Categoria into grupo
+                            select new {
+                                NomeDaCategoria = grupo.Key,
+                                ValorMinimo = grupo.Min(x => x.Valor),
+                                ValorMaximo = grupo.Max(x => x.Valor)
+                            };
 
 
             Console.ReadKey();
@@ -176,3 +199,4 @@ namespace Loja {
 
     }
 }
+
