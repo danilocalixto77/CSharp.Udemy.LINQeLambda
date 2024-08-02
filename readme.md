@@ -38,8 +38,8 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 ### 7. Agrupamento e Agregações
 
 	Max()
-    Min()
-    Average()
-    Sum()
+	Min()
+	Average()
+	Sum()
     
 
