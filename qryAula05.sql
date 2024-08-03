@@ -1,0 +1,2 @@
+SELECT * FROM PRODUTO
+SELECT * FROM Categoria

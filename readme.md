@@ -41,5 +41,10 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 	Min()
 	Average()
 	Sum()
+
+
+### 8. ....
+
+    5 minutos de aula...
     
 
