@@ -43,8 +43,8 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 	Sum()
 
 
-### 8. ....
+### 8. Manipulando Banco de dados com Entity Framework e Linq To SQL
 
-    5 minutos de aula...
+    Criando projeto Class Library Dll, pra o Linq e para o EntityFrameWork
     
 

@@ -4,3 +4,9 @@ D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\obj
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\obj\Debug\Loja.Dominio.csproj.CoreCompileInputs.cache
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\obj\Debug\Loja.Dominio.dll
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\obj\Debug\Loja.Dominio.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\bin\Debug\Loja.Dominio.dll.config
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\bin\Debug\EntityFramework.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\bin\Debug\EntityFramework.xml
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Dominio\obj\Debug\Loja.Dom.AAD92B41.Up2Date
