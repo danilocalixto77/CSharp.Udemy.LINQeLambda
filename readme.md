@@ -46,5 +46,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 ### 8. Manipulando Banco de dados com Entity Framework e Linq To SQL
 
     Criando projeto Class Library Dll, pra o Linq e para o EntityFrameWork
+
+    Configuração, conexão continuar aula....
     
 
