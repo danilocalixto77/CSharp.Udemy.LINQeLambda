@@ -48,5 +48,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
     Criando projeto Class Library Dll, pra o Linq e para o EntityFrameWork
 
     Configuração, conexão continuar aula....
+
+	Debugando valores....
     
 
