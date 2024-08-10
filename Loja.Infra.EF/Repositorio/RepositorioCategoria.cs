@@ -21,9 +21,11 @@ namespace Loja.Infra.EF.Repositorio {
             LojaEFEntities ef = new LojaEFEntities();
 
             ef.Categoria.Add(categoria);
-            
+
 
             ef.SaveChanges();
+
+        }
 
 
     }

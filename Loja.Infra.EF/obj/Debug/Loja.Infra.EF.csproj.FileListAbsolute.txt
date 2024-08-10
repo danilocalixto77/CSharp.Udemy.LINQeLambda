@@ -1,2 +1,12 @@
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.csproj.AssemblyReference.cache
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\bin\Debug\Loja.Infra.EF.dll.config
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\bin\Debug\Loja.Infra.EF.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\bin\Debug\Loja.Infra.EF.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\bin\Debug\EntityFramework.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\bin\Debug\EntityFramework.xml
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\obj\Debug\Loja.Inf.ACEBB357.Up2Date
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.pdb

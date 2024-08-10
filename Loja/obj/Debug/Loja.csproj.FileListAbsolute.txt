@@ -11,3 +11,8 @@ D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\obj\Debug\L
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Newtonsoft.Json.dll
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Newtonsoft.Json.xml
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Loja.Dominio.dll.config
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Loja.Infra.EF.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\EntityFramework.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Loja.Infra.EF.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\Loja.Infra.EF.dll.config
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja\bin\Debug\EntityFramework.xml
