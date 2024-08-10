@@ -42,6 +42,12 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 	Average()
 	Sum()
 
+---
+---
+###### ***Aulas 01 a 07 desenvolvidas na primeira solução***: Projetos: Loja e Loja.Dominio
+---
+---
+
 
 ### 8. Manipulando Banco de dados com Entity Framework e Linq To SQL
 

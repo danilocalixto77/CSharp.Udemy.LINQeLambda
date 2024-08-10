@@ -68,10 +68,6 @@
       <Project>{010446CB-15DC-47EA-8FEB-3960CF5E930A}</Project>
       <Name>Loja.Dominio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Loja.Infra.EF\Loja.Infra.EF.csproj">
-      <Project>{7669B79F-F90A-48D1-87A0-8A30AFB22790}</Project>
-      <Name>Loja.Infra.EF</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

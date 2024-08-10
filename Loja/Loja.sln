@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja", "Loja.csproj", "{A14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Dominio", "..\Loja.Dominio\Loja.Dominio.csproj", "{010446CB-15DC-47EA-8FEB-3960CF5E930A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Infra.EF", "..\Loja.Infra.EF\Loja.Infra.EF.csproj", "{7669B79F-F90A-48D1-87A0-8A30AFB22790}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Infra.Linq", "..\Loja.Infra.Linq\Loja.Infra.Linq.csproj", "{EE142CE0-93AC-4F9E-BB47-61A4F791349E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,14 +21,6 @@ Global
 		{010446CB-15DC-47EA-8FEB-3960CF5E930A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{010446CB-15DC-47EA-8FEB-3960CF5E930A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{010446CB-15DC-47EA-8FEB-3960CF5E930A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7669B79F-F90A-48D1-87A0-8A30AFB22790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7669B79F-F90A-48D1-87A0-8A30AFB22790}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7669B79F-F90A-48D1-87A0-8A30AFB22790}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7669B79F-F90A-48D1-87A0-8A30AFB22790}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE142CE0-93AC-4F9E-BB47-61A4F791349E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE142CE0-93AC-4F9E-BB47-61A4F791349E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE142CE0-93AC-4F9E-BB47-61A4F791349E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE142CE0-93AC-4F9E-BB47-61A4F791349E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
