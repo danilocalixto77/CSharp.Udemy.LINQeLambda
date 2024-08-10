@@ -22,8 +22,9 @@ namespace Loja.Infra.EF
     
         public int idcategoria { get; set; }
         public string nome { get; set; }
-    
+        public string Nome { get; internal set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Produto> Produto { get; set; }
+        public int Id { get; internal set; }
     }
 }

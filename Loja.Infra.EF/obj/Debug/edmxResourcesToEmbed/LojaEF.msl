@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LojaModelStoreContainer" CdmEntityContainer="LojaEFEntities">
+    <EntitySetMapping Name="Categoria">
+      <EntityTypeMapping TypeName="LojaModel.Categoria">
+        <MappingFragment StoreEntitySet="Categoria">
+          <ScalarProperty Name="idcategoria" ColumnName="idcategoria" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Produto">
+      <EntityTypeMapping TypeName="LojaModel.Produto">
+        <MappingFragment StoreEntitySet="Produto">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idcategoria" ColumnName="idcategoria" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="valor" ColumnName="valor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

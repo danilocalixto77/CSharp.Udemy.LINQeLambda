@@ -1,0 +1,2 @@
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.csproj.AssemblyReference.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.csproj.CoreCompileInputs.cache

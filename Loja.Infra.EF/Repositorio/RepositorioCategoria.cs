@@ -6,17 +6,24 @@ using System.Threading.Tasks;
 
 namespace Loja.Infra.EF.Repositorio {
     public class RepositorioCategoria {
-        public void AdicionarCategoria(string nome) {
-            Categoria catFrutas = new Categoria();
-            catFrutas.nome = "Frutas";
+        public void AdicionarCategoria(int id, string nome) {
+
+            //Entity Framework
+
+            Categoria categoria = new Categoria();
+            categoria.Id = id;
+            categoria.Nome = nome;
 
             Categoria catEletronicos = new Categoria();
             catEletronicos.nome = "Eletronicos";
 
+            //Instanciar o contexto do Entity Framework
             LojaEFEntities ef = new LojaEFEntities();
 
-            ef.Categoria.Add(catFrutas);
-            ef.Categoria.Add(catEletronicos);
+            ef.Categoria.Add(categoria);
+            
+
+            ef.SaveChanges();
 
 
     }

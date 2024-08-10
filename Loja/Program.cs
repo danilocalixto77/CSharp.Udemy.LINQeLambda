@@ -1,4 +1,5 @@
 ﻿using Loja.Dominio.Entidades;
+using Loja.Infra.EF.Repositorio;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -158,36 +159,42 @@ namespace Loja {
             //var soma = produtos.Sum(x => x.Valor);
 
 
-            var produtosFrutas = new Produto().ListarFrutas();
-            var produtosEletronicos = new Produto().ListarEletronicos();
+            //var produtosFrutas = new Produto().ListarFrutas();
+            //var produtosEletronicos = new Produto().ListarEletronicos();
+            //var produtos = new List<Produto>();
+            //produtos.AddRange(produtosFrutas);
+            //produtos.AddRange(produtosEletronicos);
+            //Console.WriteLine(produtos.Count());
+            //produtos.ForEach(x => {
+            //    Console.WriteLine(JsonConvert.SerializeObject(x));
+            //});
+            //Console.WriteLine("----------------------------");
+            //var resultado = (from p in produtos
+            //                group p by p.Categoria into grupo
+            //                select new RelatorioProdutoPorCategoria {
+            //                    NomeDaCategoria = grupo.Key,
+            //                    ValorMinimo = grupo.Min(x => x.Valor),
+            //                    ValorMaximo = grupo.Max(x => x.Valor),
+            //                    ValorTotal = grupo.Sum(x => x.Valor)
+            //                }).OrderBy(x => x.NomeDaCategoria).ToList();
+            //resultado.ToList().ForEach(x => {
+            //    Console.WriteLine(JsonConvert.SerializeObject(x)); 
+            //});
 
-            var produtos = new List<Produto>();
-            produtos.AddRange(produtosFrutas);
-            produtos.AddRange(produtosEletronicos);
+            //Console.ReadKey();
 
-            Console.WriteLine(produtos.Count());
 
-            produtos.ForEach(x => {
-                Console.WriteLine(JsonConvert.SerializeObject(x));
-            });
+            //##############
+            //AULA 8 
+            //##############
 
-            Console.WriteLine("----------------------------");
+            //Salvando categoria com o EntityFrameWork
 
-            var resultado = (from p in produtos
-                            group p by p.Categoria into grupo
-                            select new RelatorioProdutoPorCategoria {
-                                NomeDaCategoria = grupo.Key,
-                                ValorMinimo = grupo.Min(x => x.Valor),
-                                ValorMaximo = grupo.Max(x => x.Valor),
-                                ValorTotal = grupo.Sum(x => x.Valor)
-                            }).OrderBy(x => x.NomeDaCategoria).ToList();
+            new RepositorioCategoria().AdicionarCategoria(1, "Frutas");
+            new RepositorioCategoria().AdicionarCategoria(2, "Eletronicos");
 
-            resultado.ToList().ForEach(x => {
-                Console.WriteLine(JsonConvert.SerializeObject(x)); 
 
-            });
 
-            Console.ReadKey();
 
         }
 
@@ -213,4 +220,5 @@ namespace Loja {
 
     }
 }
+
 
