@@ -14,14 +14,10 @@ namespace Loja.Infra.EF.Repositorio {
             categoria.Id = id;
             categoria.Nome = nome;
 
-            Categoria catEletronicos = new Categoria();
-            catEletronicos.nome = "Eletronicos";
-
             //Instanciar o contexto do Entity Framework
             LojaEFEntities ef = new LojaEFEntities();
 
             ef.Categoria.Add(categoria);
-
 
             ef.SaveChanges();
 
