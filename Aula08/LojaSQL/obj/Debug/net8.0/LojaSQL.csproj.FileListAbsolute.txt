@@ -1,0 +1,15 @@
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\bin\Debug\net8.0\LojaSQL.exe
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\bin\Debug\net8.0\LojaSQL.deps.json
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\bin\Debug\net8.0\LojaSQL.runtimeconfig.json
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\bin\Debug\net8.0\LojaSQL.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\bin\Debug\net8.0\LojaSQL.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.AssemblyInfoInputs.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.AssemblyInfo.cs
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.sourcelink.json
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\refint\LojaSQL.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\LojaSQL.genruntimeconfig.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\LojaSQL\obj\Debug\net8.0\ref\LojaSQL.dll

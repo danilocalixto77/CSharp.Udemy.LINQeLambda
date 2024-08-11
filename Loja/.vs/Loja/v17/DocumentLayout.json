@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A14D4EB3-E277-4959-A8B1-A83A9B1B48DC}|Loja.csproj|d:\\danilo\\cursos\\udemy\\dominandolinqelambdaexpressionscomcsharp\\loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A14D4EB3-E277-4959-A8B1-A83A9B1B48DC}|Loja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14D4EB3-E277-4959-A8B1-A83A9B1B48DC}|Loja.csproj|D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Loja\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A14D4EB3-E277-4959-A8B1-A83A9B1B48DC}|Loja.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Loja\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Loja\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-11T01:41:47.529Z"
             },
             {
               "$type": "Document",
@@ -28,7 +44,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Loja\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAAALYAAAAeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T03:18:22.391Z",
               "EditorCaption": ""
