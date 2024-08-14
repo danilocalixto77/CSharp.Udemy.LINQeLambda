@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LojaSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b4e7a4cabed4b05f237f748bb50b2e220c0ff3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899a38f8dd0c6f5c2b224ea01d9c8b2676672d06")]
 [assembly: System.Reflection.AssemblyProductAttribute("LojaSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LojaSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
