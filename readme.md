@@ -58,5 +58,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
     Configuração do contexto para  conexão com o banco de dados.
 
     Instalar projetos a parte iniciando.....
+
+    6:15. Projetos criados configurar SQL
     
 
