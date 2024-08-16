@@ -60,5 +60,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
     Instalar projetos a parte iniciando.....
 
     6:15. Projetos criados configurar SQL
+
+    Gerar o EF
     
 
