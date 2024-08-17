@@ -51,16 +51,5 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ### 8. Manipulando Banco de dados com Entity Framework e Linq To SQL
 
-    Projeto na pasta Aula8 com a LojaSQL para trabalhar neste aula.
-
-    Criando projeto Class Library Dll, pra o Linq e para o EntityFrameWork
-
-    Configuração do contexto para  conexão com o banco de dados.
-
-    Instalar projetos a parte iniciando.....
-
-    6:15. Projetos criados configurar SQL
-
-    Gerar o EF
-    
+	Refazendo projetos com mesma versão do .NET    
 
