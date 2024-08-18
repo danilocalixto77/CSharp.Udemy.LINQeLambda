@@ -51,5 +51,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ### 8. Manipulando Banco de dados com Entity Framework e Linq To SQL
 
-	Refazendo projetos com mesma versão do .NET    
+	Configuração dos projetos para conexão e insersão de dados através do EntityFramework.
+
+    
 
