@@ -9,6 +9,7 @@ using System.Web;
 namespace Loja8.Infra.EF.Repositorio {
     public class RepositorioCategoria {
         public void AdicionarCategoria(int id,  string nome) {
+            //EntityFramework
 
             Categoria cat = new Categoria();
 

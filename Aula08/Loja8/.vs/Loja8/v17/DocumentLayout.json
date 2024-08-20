@@ -3,11 +3,17 @@
   "WorkspaceRootPath": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{693B2D21-35E9-41A6-8638-C71831B3B0CD}|..\\Loja8.Infra.EF\\Loja8.Infra.EF.csproj|d:\\danilo\\cursos\\udemy\\dominandolinqelambdaexpressionscomcsharp\\aula08\\loja8.infra.ef\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74A0B088-1EBC-4AC2-8819-93BABAC13377}|Loja8.csproj|d:\\danilo\\cursos\\udemy\\dominandolinqelambdaexpressionscomcsharp\\aula08\\loja8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A0B088-1EBC-4AC2-8819-93BABAC13377}|Loja8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{693B2D21-35E9-41A6-8638-C71831B3B0CD}|..\\Loja8.Infra.EF\\Loja8.Infra.EF.csproj|d:\\danilo\\cursos\\udemy\\dominandolinqelambdaexpressionscomcsharp\\aula08\\loja8.infra.ef\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A372E64-BDEE-4297-9631-95A4D8FDE783}|..\\Loja8.Infra.Linq\\Loja8.Infra.Linq.csproj|d:\\danilo\\cursos\\udemy\\dominandolinqelambdaexpressionscomcsharp\\aula08\\loja8.infra.linq\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A372E64-BDEE-4297-9631-95A4D8FDE783}|..\\Loja8.Infra.Linq\\Loja8.Infra.Linq.csproj|d:\\danilo\\cursos\\udemy\\dominandolinqelambdaexpressionscomcsharp\\aula08\\loja8.infra.linq\\loja8linqtosql.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,24 +23,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:14:38.637Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -42,15 +35,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioCategoria.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
+              "RelativeDocumentMoniker": "..\\Loja8.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
+              "RelativeToolTip": "..\\Loja8.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:37:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loja8LinqToSQL.dbml",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8.Infra.Linq\\Loja8LinqToSQL.dbml",
+              "RelativeDocumentMoniker": "..\\Loja8.Infra.Linq\\Loja8LinqToSQL.dbml",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8.Infra.Linq\\Loja8LinqToSQL.dbml",
+              "RelativeToolTip": "..\\Loja8.Infra.Linq\\Loja8LinqToSQL.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-08-19T03:34:40.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:14:38.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RepositorioCategoria.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8.Infra.EF\\Repositorio\\RepositorioCategoria.cs",
               "RelativeDocumentMoniker": "..\\Loja8.Infra.EF\\Repositorio\\RepositorioCategoria.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja8.Infra.EF\\Repositorio\\RepositorioCategoria.cs",
               "RelativeToolTip": "..\\Loja8.Infra.EF\\Repositorio\\RepositorioCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T12:23:56.716Z"
+              "WhenOpened": "2024-08-17T12:23:56.716Z",
+              "EditorCaption": ""
             }
           ]
         }
