@@ -53,5 +53,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 	Configuração dos projetos para conexão e insersão de dados através do EntityFramework.
 
+	Fazer projetos separados para testar o Linq to SQL
+
     
 

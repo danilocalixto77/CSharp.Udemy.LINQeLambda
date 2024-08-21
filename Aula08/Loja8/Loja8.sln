@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja8", "Loja8.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja8.Infra.EF", "..\Loja8.Infra.EF\Loja8.Infra.EF.csproj", "{693B2D21-35E9-41A6-8638-C71831B3B0CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja8.Infra.Linq", "..\Loja8.Infra.Linq\Loja8.Infra.Linq.csproj", "{1A372E64-BDEE-4297-9631-95A4D8FDE783}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{693B2D21-35E9-41A6-8638-C71831B3B0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{693B2D21-35E9-41A6-8638-C71831B3B0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{693B2D21-35E9-41A6-8638-C71831B3B0CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1A372E64-BDEE-4297-9631-95A4D8FDE783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A372E64-BDEE-4297-9631-95A4D8FDE783}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A372E64-BDEE-4297-9631-95A4D8FDE783}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A372E64-BDEE-4297-9631-95A4D8FDE783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
