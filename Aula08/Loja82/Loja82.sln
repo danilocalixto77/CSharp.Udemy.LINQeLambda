@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja82", "Loja82.csproj", "{00869BE8-0A85-4BB0-82CC-3702D1971682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja82.Infra.Linq", "..\Loja82.Infra.Linq\Loja82.Infra.Linq.csproj", "{31C4F553-D62D-41C3-A9BD-96B853B35570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00869BE8-0A85-4BB0-82CC-3702D1971682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00869BE8-0A85-4BB0-82CC-3702D1971682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00869BE8-0A85-4BB0-82CC-3702D1971682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00869BE8-0A85-4BB0-82CC-3702D1971682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C4F553-D62D-41C3-A9BD-96B853B35570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C4F553-D62D-41C3-A9BD-96B853B35570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C4F553-D62D-41C3-A9BD-96B853B35570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C4F553-D62D-41C3-A9BD-96B853B35570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0115FBDA-1588-41A5-8E14-B052A69D5168}
+	EndGlobalSection
+EndGlobal
