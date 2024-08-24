@@ -51,7 +51,5 @@ namespace Loja8.Infra.EF.Repositorio {
 
         }
 
-
-
     }
 }

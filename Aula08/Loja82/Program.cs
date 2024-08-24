@@ -13,7 +13,9 @@ namespace Loja82 {
             //new RepositorioCategoria().AdicionarCategoria(11, "Calçados");
 
 
-            new RepositorioCategoria().AlterarCategoria(11, "Calçados Masculinos");
+            //new RepositorioCategoria().AlterarCategoria(11, "Calçados Masculinos");
+
+            new RepositorioCategoria().ExcluirCategoria(5);
 
         }
     }

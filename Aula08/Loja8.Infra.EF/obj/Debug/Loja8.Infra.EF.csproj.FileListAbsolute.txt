@@ -9,3 +9,5 @@ D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8.Inf
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8.Infra.EF\obj\Debug\Loja8.In.85C19540.Up2Date
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8.Infra.EF\obj\Debug\Loja8.Infra.EF.dll
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8.Infra.EF\obj\Debug\Loja8.Infra.EF.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8.Infra.EF\bin\Debug\Newtonsoft.Json.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8.Infra.EF\bin\Debug\Newtonsoft.Json.xml

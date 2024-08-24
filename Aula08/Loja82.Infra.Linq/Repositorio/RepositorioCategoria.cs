@@ -36,6 +36,18 @@ namespace Loja82.Infra.Linq.Repositorio {
 
         }
 
+        public void ExcluirCategoria(int _id) {
+            //Linq To SQL
+            Loja82LinqToSQLDataContext linq = new Loja82LinqToSQLDataContext();
+
+            var categoria = linq.Categoria.First(x => x.idcategoria == _id);
+
+            linq.Categoria.DeleteOnSubmit(categoria);
+
+            linq.SubmitChanges();
+
+        }
+
 
     }
 }
