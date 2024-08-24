@@ -64,7 +64,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
         EF Degisner from database -> Avançar
     
     - Botão: [New Connection]
-        Configura e testa a conexão com o bd.
+        Configurar e testar a conexão com o banco de dados.
     
     - Botão: [Concluir]
     
@@ -79,7 +79,12 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
     - Criar um novo item para este projeto
 
     - Selecionar o item:
-        Dados - > Linq To SQL -> Itens do C#
+        Dados - > Linq To SQL Classes -> Itens do C#
+
+    - Será criado um arquivo .dbml com o contexto do banco de dados.
+
+
+    
 
     
 

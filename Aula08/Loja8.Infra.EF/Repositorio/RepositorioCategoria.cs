@@ -8,13 +8,13 @@ using System.Web;
 
 namespace Loja8.Infra.EF.Repositorio {
     public class RepositorioCategoria {
-        public void AdicionarCategoria(int id,  string nome) {
+        public void AdicionarCategoria(int _id,  string _nome) {
             //EntityFramework
 
             Categoria cat = new Categoria();
 
-            cat.idcategoria = id;
-            cat.nome = nome;
+            cat.idcategoria = _id;
+            cat.nome = _nome;
             
 
             Loja8EFEntities ef = new Loja8EFEntities();
@@ -23,8 +23,21 @@ namespace Loja8.Infra.EF.Repositorio {
 
             ef.SaveChanges();
 
+        }
 
+        public void AlterarCategoria(int _id , string _nome) {
+            //EntityFramework
+
+            Loja8EFEntities ef = new Loja8EFEntities();
+
+            var categoria = ef.Categoria.First(x => x.idcategoria == _id);
+
+            categoria.nome = _nome;
+
+            ef.SaveChanges();
 
         }
+
+
     }
 }

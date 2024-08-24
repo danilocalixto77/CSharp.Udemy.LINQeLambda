@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Loja8LinqToSql">
+  <DataContextMoniker Name="/Loja8LinqToSqlDataContext" />
+  <nestedChildShapes>
+    <classShape Id="772556ee-e78f-47a7-8989-d84d101bc237" absoluteBounds="0.75, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/Loja8LinqToSqlDataContext/Categoria" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1589ba7d-794d-4964-9a34-b884ba4f5cdc" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4e41ee66-1a12-48ed-8c4e-bf47e55fd0ae" absoluteBounds="3.5, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Loja8LinqToSqlDataContext/Produto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="84b72110-a683-46ea-b06b-126bfe731ded" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.72199625651042); (3.5 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/Loja8LinqToSqlDataContext/Categoria/Categoria_Produto" />
+      <nodes>
+        <classShapeMoniker Id="772556ee-e78f-47a7-8989-d84d101bc237" />
+        <classShapeMoniker Id="4e41ee66-1a12-48ed-8c4e-bf47e55fd0ae" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

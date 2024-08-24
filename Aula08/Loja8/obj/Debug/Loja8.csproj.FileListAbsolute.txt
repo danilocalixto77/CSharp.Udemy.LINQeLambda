@@ -1,14 +1,14 @@
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\Loja8.exe.config
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\Loja8.exe
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\Loja8.pdb
-D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\Loja8.Infra.EF.dll
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\EntityFramework.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\Loja8.Infra.EF.dll
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\Loja8.Infra.EF.pdb
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\EntityFramework.xml
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\EntityFramework.SqlServer.xml
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\obj\Debug\Loja8.csproj.AssemblyReference.cache
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\obj\Debug\Loja8.csproj.CoreCompileInputs.cache
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\obj\Debug\Loja8.csproj.Up2Date
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\obj\Debug\Loja8.exe
 D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\obj\Debug\Loja8.pdb
-D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\EntityFramework.SqlServer.dll
-D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja8\bin\Debug\EntityFramework.SqlServer.xml
