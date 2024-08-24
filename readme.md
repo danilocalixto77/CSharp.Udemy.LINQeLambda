@@ -91,10 +91,20 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
     - Será criado um arquivo .dbml com o contexto do banco de dados.
 
 
-    
+### 9. Paralelismo
+
+    Exemplo dentro do projeto (Loja8)
 
     
 
+    
+
 
     
+
+### Atalhos:
+
+    CTRL + K + C : Comenta bloco de código selecionado
+    CTRL + K + U : Retira comentário do bloco selecionado
+    CTRL + K + S : Cria region
 
