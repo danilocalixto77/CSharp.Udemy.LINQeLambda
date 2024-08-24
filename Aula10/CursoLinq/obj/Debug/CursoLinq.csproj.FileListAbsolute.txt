@@ -1,0 +1,12 @@
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\bin\Debug\CursoLinq.exe.config
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\bin\Debug\CursoLinq.exe
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\bin\Debug\CursoLinq.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\bin\Debug\EntityFramework.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\bin\Debug\EntityFramework.SqlServer.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\bin\Debug\EntityFramework.xml
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\bin\Debug\EntityFramework.SqlServer.xml
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\obj\Debug\CursoLinq.csproj.AssemblyReference.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\obj\Debug\CursoLinq.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\obj\Debug\CursoLinq.csproj.Up2Date
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\obj\Debug\CursoLinq.exe
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula10\CursoLinq\obj\Debug\CursoLinq.pdb

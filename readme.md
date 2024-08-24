@@ -95,7 +95,10 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
     Exemplo dentro do projeto (Loja8)
 
-    
+
+### 10. Entendendo melhor as funções
+
+
 
     
 
@@ -106,5 +109,7 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
     CTRL + K + C : Comenta bloco de código selecionado
     CTRL + K + U : Retira comentário do bloco selecionado
-    CTRL + K + S : Cria region
+    CTRL + K + S : Snipet que pode ser utilizaod para diversas funcionalidade.
+                    - Cria region
+                    - Clausula using
 
