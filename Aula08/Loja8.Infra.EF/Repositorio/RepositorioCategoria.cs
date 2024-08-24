@@ -38,6 +38,20 @@ namespace Loja8.Infra.EF.Repositorio {
 
         }
 
+        public void ExcluirCategoria(int _id) {
+            //EntityFramework
+
+            Loja8EFEntities ef = new Loja8EFEntities();
+
+            var categoria = ef.Categoria.First(x => x.idcategoria == _id);
+
+            ef.Categoria.Remove(categoria);
+
+            ef.SaveChanges();
+
+        }
+
+
 
     }
 }

@@ -21,8 +21,21 @@ namespace Loja82.Infra.Linq.Repositorio {
 
             linq.SubmitChanges();
 
+        }
 
+        public void AlterarCategoria(int _id, string _nome) {
+            //Linq To SQL
+
+            Loja82LinqToSQLDataContext linq = new Loja82LinqToSQLDataContext();
+
+            var categoria = linq.Categoria.First(x => x.idcategoria == _id);
+
+            categoria.nome = _nome;
+
+            linq.SubmitChanges();
 
         }
+
+
     }
 }

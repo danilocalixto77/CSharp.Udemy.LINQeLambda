@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00869BE8-0A85-4BB0-82CC-3702D1971682}|Loja82.csproj|D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00869BE8-0A85-4BB0-82CC-3702D1971682}|Loja82.csproj|d:\\danilo\\cursos\\udemy\\dominandolinqelambdaexpressionscomcsharp\\aula08\\loja82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00869BE8-0A85-4BB0-82CC-3702D1971682}|Loja82.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,9 +32,9 @@
               "Title": "RepositorioCategoria.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
               "RelativeDocumentMoniker": "..\\Loja82.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
-              "RelativeToolTip": "..\\Loja82.Infra.Linq\\Repositorio\\RepositorioCategoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82.Infra.Linq\\Repositorio\\RepositorioCategoria.cs*",
+              "RelativeToolTip": "..\\Loja82.Infra.Linq\\Repositorio\\RepositorioCategoria.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T00:12:40.217Z",
               "EditorCaption": ""
@@ -48,8 +48,7 @@
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82.Infra.Linq\\Loja82LinqToSQL.dbml",
               "RelativeToolTip": "..\\Loja82.Infra.Linq\\Loja82LinqToSQL.dbml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2024-08-24T00:10:28.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T00:10:28.133Z"
             },
             {
               "$type": "Document",
@@ -57,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\DominandoLINQeLambdaExpressionsComCSharp\\Aula08\\Loja82\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T03:50:16.639Z",
               "EditorCaption": ""
