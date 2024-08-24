@@ -1,12 +1,18 @@
-﻿using System;
+﻿using Loja82.Infra.Linq.Repositorio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Loja82 {
-    internal class Program {
+    class Program {
         static void Main(string[] args) {
+
+            new RepositorioCategoria().AdicionarCategoria(10, "Roupas");
+            new RepositorioCategoria().AdicionarCategoria(11, "Calçados");
+
+
         }
     }
 }

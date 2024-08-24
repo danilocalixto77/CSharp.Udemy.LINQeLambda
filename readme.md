@@ -51,12 +51,38 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ### 8. Manipulando Banco de dados com Entity Framework e Linq To SQL
 
-	Configuração dos projetos para conexão e insersão de dados através do EntityFramework.
+	Configurando conexão SQL via EntityFrameWork
+    
+    - Criar projeto do tipo biblioteca de classes .NetFramework
 
-	Fazer projetos separados para testar o Linq to SQL
+    - Criar um novo item para este projeto
+    
+    - Selecionar o item:
+        Dados - > ADO.NET Entity Data Model -> Itens do C#
+    
+    - Selecionar o model, para este exemplo utilizaremos:
+        EF Degisner from database -> Avançar
+    
+    - Botão: [New Connection]
+        Configura e testa a conexão com o bd.
+    
+    - Botão: [Concluir]
+    
+---
+    Configurando conexão SQL via Linq To SQL
 
---- 
-    Projeto Linq
+    - Primeiramente vá na opção do menu a seguir e crie uma conexão com um banco de dados. Opção funciona somente para MS-SQL Server.
+        Menu | Ferramentas | Conectar-se a Banco de Dados...
+    
+    - Criar projeto do tipo biblioteca de classes .NetFramework
+
+    - Criar um novo item para este projeto
+
+    - Selecionar o item:
+        Dados - > Linq To SQL -> Itens do C#
+
+    
+
 
     
 

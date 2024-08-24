@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Loja82.Infra.Linq
+namespace Loja8.Infra.Linq
 {
     public class Class1
     {

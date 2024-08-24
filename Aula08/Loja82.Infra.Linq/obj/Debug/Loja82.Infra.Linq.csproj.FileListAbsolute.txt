@@ -1,0 +1,7 @@
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja82.Infra.Linq\bin\Debug\Loja82.Infra.Linq.dll.config
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja82.Infra.Linq\bin\Debug\Loja82.Infra.Linq.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja82.Infra.Linq\bin\Debug\Loja82.Infra.Linq.pdb
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja82.Infra.Linq\obj\Debug\Loja82.Infra.Linq.csproj.AssemblyReference.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja82.Infra.Linq\obj\Debug\Loja82.Infra.Linq.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja82.Infra.Linq\obj\Debug\Loja82.Infra.Linq.dll
+D:\Danilo\Cursos\Udemy\DominandoLINQeLambdaExpressionsComCSharp\Aula08\Loja82.Infra.Linq\obj\Debug\Loja82.Infra.Linq.pdb

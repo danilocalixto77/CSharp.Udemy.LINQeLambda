@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Loja" Class="Loja82LinqToSQLDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Loja;Integrated Security=True;Encrypt=False" SettingsObjectName="Loja82.Infra.Linq.Properties.Settings" SettingsPropertyName="LojaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Categoria" Member="Categoria">
+    <Type Name="Categoria">
+      <Column Name="idcategoria" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nome" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Categoria_Produto" Member="Produto" ThisKey="idcategoria" OtherKey="idcategoria" Type="Produto" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Produto" Member="Produto">
+    <Type Name="Produto">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idcategoria" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="nome" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="valor" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Association Name="Categoria_Produto" Member="Categoria" ThisKey="idcategoria" OtherKey="idcategoria" Type="Categoria" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
