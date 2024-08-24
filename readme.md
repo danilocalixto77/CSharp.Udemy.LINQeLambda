@@ -51,6 +51,13 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ### 8. Manipulando Banco de dados com Entity Framework e Linq To SQL
 
+    Exemplos de conexão com banco de dados SQL através do EntityFrameWork e Linq To SQL.
+
+    Na aula há o básico de uma classe com as funcionalidades de adicionar, alterar e deletar.
+
+    Os exemplo foram desenvolvidos em projetos separados, portanto há um para EntityFrameWork (Loja8) e outro para Linq To SQL (Loja82).
+
+
 	Configurando conexão SQL via EntityFrameWork
     
     - Criar projeto do tipo biblioteca de classes .NetFramework
