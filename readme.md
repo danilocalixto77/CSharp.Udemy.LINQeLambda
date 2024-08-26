@@ -98,12 +98,25 @@ Professor: Paulo Rogério Martins Marques - **Udemy**
 
 ### 10. Entendendo melhor as funções
 
+    Revisão dos comandos estudos utilizando o banco de dados SQL para exemplificar:
 
+    Lista de comandos mais comumente utilizados:
 
-    
-
-
-    
+    First()
+    Contains()
+    FirstOrDefault()
+    Single()
+    SingleOrDefault()
+    Skip()
+    Take()
+    Count()
+    SkipWhile()
+    Sum()
+    Max()
+    Min()
+    Union()
+    Distinct()
+    Any
 
 ### Atalhos:
 
